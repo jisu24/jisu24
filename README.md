@@ -2,9 +2,9 @@
 - 👀 I’m interested in backend development and ai.
 - 🌱 I’m currently learning django and flask.
 - 💞️ I’m looking to collaborate on python related projects.
-- 📫 How to reach me ...
+- 📫 How to reach me: debasmithdas034@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 jisu24/jisu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
